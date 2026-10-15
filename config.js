@@ -1,0 +1,1 @@
+window.MARWAN_CONFIG = Object.freeze({supabaseUrl:'https://omsgstolburwmziuyvtg.supabase.co',publishableKey:'sb_publishable_gM_lYioVjkFu4FmMasaarg_Wg7TaA9Q',deploymentUrl:'https://marwanywr3-lab.github.io/marwan-os-/',officialIconReady:false});

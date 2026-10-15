@@ -1,0 +1,1 @@
+{"name":"marwan-os","private":true,"type":"module","version":"0.1.0","scripts":{"test":"node --test tests/domain.test.mjs"},"description":"Buildless static frontend; vendored dependencies are pinned in THIRD_PARTY.md"}
